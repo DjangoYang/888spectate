@@ -1,0 +1,8 @@
+{
+    "host": "localhost",
+    "port": 8000,
+    "dev": true,
+    "debug" : true,
+    "debug_host": "localhost",
+    "debug_port": 5678
+}
