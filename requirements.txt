@@ -1,0 +1,8 @@
+sanic==23.12.1
+aiosqlite==0.20.0
+requests==2.32.3
+pydantic==2.8.2
+python-slugify==8.0.4
+
+setuptools==70.3.0
+debugpy==1.8.2

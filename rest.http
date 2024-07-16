@@ -1,0 +1,21 @@
+GET http://localhost:8000/api/sport/1
+
+###
+POST http://localhost:8000/api/sport
+Content-Type: application/json
+
+{
+  "name": "Formula X"
+}
+
+###
+PATCH http://localhost:8000/api/sport/7
+Content-Type: application/json
+
+{
+  "name": "Formula XY",
+  "active": false
+}
+
+###
+DELETE http://localhost:8000/api/sport/7
